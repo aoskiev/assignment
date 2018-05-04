@@ -1,0 +1,16 @@
+D:\Projects\AnotherService\AnotherService\bin\Debug\netcoreapp2.0\AnotherService.deps.json
+D:\Projects\AnotherService\AnotherService\bin\Debug\netcoreapp2.0\AnotherService.runtimeconfig.json
+D:\Projects\AnotherService\AnotherService\bin\Debug\netcoreapp2.0\AnotherService.runtimeconfig.dev.json
+D:\Projects\AnotherService\AnotherService\bin\Debug\netcoreapp2.0\AnotherService.dll
+D:\Projects\AnotherService\AnotherService\bin\Debug\netcoreapp2.0\AnotherService.pdb
+D:\Projects\AnotherService\AnotherService\obj\Debug\netcoreapp2.0\AnotherService.csprojResolveAssemblyReference.cache
+D:\Projects\AnotherService\AnotherService\obj\Debug\netcoreapp2.0\AnotherService.csproj.CoreCompileInputs.cache
+D:\Projects\AnotherService\AnotherService\obj\Debug\netcoreapp2.0\AnotherService.AssemblyInfoInputs.cache
+D:\Projects\AnotherService\AnotherService\obj\Debug\netcoreapp2.0\AnotherService.AssemblyInfo.cs
+D:\Projects\AnotherService\AnotherService\obj\Debug\netcoreapp2.0\AnotherService.dll
+D:\Projects\AnotherService\AnotherService\obj\Debug\netcoreapp2.0\AnotherService.pdb
+D:\Projects\AnotherService\AnotherService\bin\Debug\netcoreapp2.0\Resources\cities.csv
+D:\Projects\AnotherService\AnotherService\bin\Debug\netcoreapp2.0\Resources\persons.csv
+D:\Projects\AnotherService\AnotherService\bin\Debug\netcoreapp2.0\Resources\currencies.csv
+D:\Projects\AnotherService\AnotherService\bin\Debug\netcoreapp2.0\Resources\first_names.csv
+D:\Projects\AnotherService\AnotherService\bin\Debug\netcoreapp2.0\Resources\last_names.csv

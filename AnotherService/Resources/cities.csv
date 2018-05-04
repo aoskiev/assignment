@@ -1,0 +1,60 @@
+﻿city,city_ascii,lat,lng,pop,country,iso2,iso3,province
+Qal eh-ye Now,Qal eh-ye,34.98300013,63.13329964,2997,Afghanistan,AF,AFG,Badghis
+Chaghcharan,Chaghcharan,34.5167011,65.25000063,15000,Afghanistan,AF,AFG,Ghor
+Lashkar Gah,Lashkar Gah,31.58299802,64.35999955,201546,Afghanistan,AF,AFG,Hilmand
+Zaranj,Zaranj,31.11200108,61.88699752,49851,Afghanistan,AF,AFG,Nimroz
+Tarin Kowt,Tarin Kowt,32.63329815,65.86669865,10000,Afghanistan,AF,AFG,Uruzgan
+Zareh Sharan,Zareh Sharan,32.85000016,68.41670453,13737,Afghanistan,AF,AFG,Paktika
+Asadabad,Asadabad,34.86600004,71.15000459,48400,Afghanistan,AF,AFG,Kunar
+Taloqan,Taloqan,36.72999904,69.54000364,64256,Afghanistan,AF,AFG,Takhar
+Mahmud-E Eraqi,Mahmud-E Eraqi,35.01669608,69.33330065,7407,Afghanistan,AF,AFG,Kapisa
+Mehtar Lam,Mehtar Lam,34.65000001,70.16670052,17345,Afghanistan,AF,AFG,Laghman
+Baraki Barak,Baraki Barak,33.9667021,68.96670354,22305,Afghanistan,AF,AFG,Logar
+Aybak,Aybak,36.26100015,68.04000051,24000,Afghanistan,AF,AFG,Samangan
+Mayda Shahr,Mayda Shahr,34.45000209,68.79999663,35008,Afghanistan,AF,AFG,Wardak
+Karokh,Karokh,34.48676963,62.59177608,14388.5,Afghanistan,AF,AFG,Hirat
+Sheberghan,Sheberghan,36.65798077,65.73830237,74441,Afghanistan,AF,AFG,Jawzjan
+Pol-e Khomri,Pol-e Khomri,35.95107302,68.70111894,41029,Afghanistan,AF,AFG,Baghlan
+Balkh,Balkh,36.75011985,66.89973018,147426,Afghanistan,AF,AFG,Balkh
+Meymaneh,Meymaneh,35.93022158,64.77009273,199795,Afghanistan,AF,AFG,Faryab
+Andkhvoy,Andkhvoy,36.93165916,65.10149369,50469,Afghanistan,AF,AFG,Faryab
+Qalat,Qalat,32.11226341,66.8867594,12191,Afghanistan,AF,AFG,Zabul
+Ghazni,Ghazni,33.56331179,68.41782873,129892.5,Afghanistan,AF,AFG,Ghazni
+Feyzabad,Feyzabad,37.12976076,70.57924719,52490,Afghanistan,AF,AFG,Badakhshan
+Kondoz,Kondoz,36.72795066,68.87252966,210855.5,Afghanistan,AF,AFG,Kunduz
+Jalalabad,Jalalabad,34.44152692,70.43610347,401697,Afghanistan,AF,AFG,Nangarhar
+Charikar,Charikar,35.01826174,69.16791215,53676,Afghanistan,AF,AFG,Parwan
+Gardiz,Gardiz,33.60005373,69.21462764,82680.5,Afghanistan,AF,AFG,Paktya
+Bamian,Bamian,34.82106447,67.52103593,61863,Afghanistan,AF,AFG,Bamyan
+Baghlan,Baghlan,36.13933026,68.69925858,163598.5,Afghanistan,AF,AFG,Baghlan
+Farah,Farah,32.39172955,62.09681921,58604,Afghanistan,AF,AFG,Farah
+Herat,Herat,34.33000917,62.16999304,439232.5,Afghanistan,AF,AFG,Hirat
+Mazar-e Sharif,Mazar-e Sharif,36.69999371,67.10002803,365432.5,Afghanistan,AF,AFG,Balkh
+Kandahar,Kandahar,31.61002016,65.69494584,613871,Afghanistan,AF,AFG,Kandahar
+Kabul,Kabul,34.51669029,69.18326005,3160266,Afghanistan,AF,AFG,Kabul
+Mariehamn,Mariehamn,60.09699618,19.94900447,10682,Aland,AX,ALD,Finström
+Kruje,Kruje,41.51899817,19.79700359,21286,Albania,AL,ALB,Durrës
+Fier,Fier,40.73000402,19.5730026,69747.5,Albania,AL,ALB,Fier
+Lushnje,Lushnje,40.94000113,19.71600348,41469,Albania,AL,ALB,Fier
+Puke,Puke,42.03330302,19.88330448,6495,Albania,AL,ALB,Shkodër
+Bajram Curri,Bajram Curri,42.33330007,20.08330257,7967,Albania,AL,ALB,Kukës
+Kukes,Kukes,42.08300107,20.43399653,17832,Albania,AL,ALB,Kukës
+Sarande,Sarande,39.87700212,19.99999859,15147,Albania,AL,ALB,Vlorë
+Erseke,Erseke,40.33330213,20.68329651,7890,Albania,AL,ALB,Korçë
+Pogradec,Pogradec,40.89999612,20.66400062,35000,Albania,AL,ALB,Korçë
+Korce,Korce,40.61667601,20.76666353,58259,Albania,AL,ALB,Korçë
+Berat,Berat,40.70999705,19.97199958,46866,Albania,AL,ALB,Berat
+Corovode,Corovode,40.51670403,20.23329663,14046,Albania,AL,ALB,Berat
+Gramsh,Gramsh,40.86669601,20.19999652,11556,Albania,AL,ALB,Elbasan
+Librazhd,Librazhd,41.20000211,20.3667036,12691,Albania,AL,ALB,Elbasan
+Tepelene,Tepelene,40.2832981,20.03329854,11955,Albania,AL,ALB,Gjirokastër
+Permet,Permet,40.23399605,20.35199756,10686,Albania,AL,ALB,Gjirokastër
+Gjirokaster,Gjirokaster,40.07899809,20.14900256,23437,Albania,AL,ALB,Gjirokastër
+Peshkopi,Peshkopi,41.6833021,20.43330349,14848,Albania,AL,ALB,Dibër
+Burrel,Burrel,41.62599908,20.01600053,15405,Albania,AL,ALB,Dibër
+Lezhe,Lezhe,41.78799914,19.65400254,18695,Albania,AL,ALB,Lezhë
+Rreshen,Rreshen,41.78330106,19.81670459,10064,Albania,AL,ALB,Lezhë
+Vlore,Vlore,40.47736005,19.49823075,89508.5,Albania,AL,ALB,Vlorë
+Elbasan,Elbasan,41.12150677,20.08382808,132956.5,Albania,AL,ALB,Elbasan
+Durres,Durres,41.3177997,19.44820797,132233,Albania,AL,ALB,Durrës
+Shkoder,Shkoder,42.06845156,19.51884965,122006,Albania,AL,ALB,Shkodër
