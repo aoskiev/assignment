@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 
 namespace AnotherService.Data
 {
+    
     [Serializable]
     public class ForexRateDto
     {
